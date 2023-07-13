@@ -1,15 +1,15 @@
 [submodule "utube.storage-service"]
 	path = utube.storage-service
-	url = D:/utube-micro-service-architecture/src/utube/utube.storage-service
+	url = https://github.com/letslearn373/utube/utube.storage-service
 [submodule "utube.video-service"]
 	path = utube.video-service
-	url = D:/utube-micro-service-architecture/src/utube/utube.video-service
+	url = https://github.com/letslearn373/utube/utube.video-service
 [submodule "utube.process-service"]
 	path = utube.process-service
-	url = D:/utube-micro-service-architecture/src/utube/utube.process-service
+	url = https://github.com/letslearn373/utube/utube.process-service
 [submodule "utube.common"]
 	path = utube.common
-	url = D:/utube-micro-service-architecture/src/utube/utube.common
+	url = https://github.com/letslearn373/utube/utube.common
 [submodule "utube.document"]
 	path = utube.document
-	url = D:/utube-micro-service-architecture/src/utube/utube.document
+	url = https://github.com/letslearn373/utube/utube.document
